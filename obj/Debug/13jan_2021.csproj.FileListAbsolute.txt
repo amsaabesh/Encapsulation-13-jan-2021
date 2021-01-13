@@ -1,0 +1,7 @@
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\bin\Debug\13jan_2021.exe.config
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\bin\Debug\13jan_2021.exe
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\bin\Debug\13jan_2021.pdb
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\obj\Debug\13jan_2021.csprojAssemblyReference.cache
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\obj\Debug\13jan_2021.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\obj\Debug\13jan_2021.exe
+C:\Users\Shoaib\source\repos\13jan_2021\13jan_2021\obj\Debug\13jan_2021.pdb
